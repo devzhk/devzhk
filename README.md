@@ -4,7 +4,7 @@ I'm a Ph.D student in Computing and Mathematical Science at Caltech. I obtained 
 
 - 🔭 I’m interested in deep generative models and operator learning.
 - 🌱 I’m currently working on diffusion models. 
-- 😄 I'm interested in photography! 
+- 😄 I'm interested in photography! 💻[https://www.instagram.com/devzhk](https://www.instagram.com/devzhk/)
 
 <!--
 **devzhk/devzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
