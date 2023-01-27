@@ -3,6 +3,8 @@
 
 I'm a Ph.D student in Computing and Mathematical Science at Caltech. I obtained my bachor degree in CS from Shanghai Jiao Tong University.  
 
+My personal website: https://devzhk.myportfolio.com/
+
 #### My Research Interest
 - 💻 Machine learning
 - ✨ Deep generative models and sampling. 
