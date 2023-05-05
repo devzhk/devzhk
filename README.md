@@ -1,7 +1,7 @@
 ### Hi there I'm Hongkai Zheng👋
 ![](https://komarev.com/ghpvc/?username=your-devzhk&color=0069b4)
 
-I'm a Ph.D student in Computing and Mathematical Science at Caltech. I obtained my bachor degree in CS from Shanghai Jiao Tong University.  
+I'm a Ph.D student in Computing and Mathematical Science at Caltech. I obtained my B.S. degree in CS from Shanghai Jiao Tong University.  
 
 My personal website: https://devzhk.myportfolio.com/
 
