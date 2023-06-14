@@ -19,11 +19,9 @@ My google scholar: [Google scholar page](https://scholar.google.com/citations?us
 
 
 #### Photography
-I'm interested in photography! [https://www.instagram.com/devzhk](https://www.instagram.com/devzhk/)
+I'm interested in photography! My instagram: [https://www.instagram.com/devzhk](https://www.instagram.com/devzhk/). My portfolio: [https://hzphotography.myportfolio.com/](https://hzphotography.myportfolio.com/)
 
 
-| <a href="https://github.com/devzhk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devzhk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hongkai's github stats" /></a> | <a href="https://github.com/devzhk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzhk&layout=compact&theme=buefy&hide_border=true" /></a>|
-| ------------- | ------------- |
 
 <!--
 **devzhk/devzhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
