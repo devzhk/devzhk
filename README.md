@@ -19,7 +19,7 @@ My google scholar: [Google scholar page](https://scholar.google.com/citations?us
 
 
 #### Photography
-I'm interested in photography! My instagram: [https://www.instagram.com/devzhk](https://www.instagram.com/devzhk/). My portfolio: [https://hzphotography.myportfolio.com/](https://hzphotography.myportfolio.com/)
+I'm also a photography hobbyist! My instagram: [https://www.instagram.com/devzhk](https://www.instagram.com/devzhk/). My portfolio: [https://hzphotography.myportfolio.com/](https://hzphotography.myportfolio.com/)
 
 
 
